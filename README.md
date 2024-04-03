@@ -1,0 +1,1 @@
+Collection of Rubber Ducky and Bad USB payloads.
